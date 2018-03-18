@@ -2,27 +2,30 @@ package controller;
 
 import model.Tree;
 
+import java.util.Arrays;
+
+import model.MergeSort;
+
 public class Main {
 
 	//private Tree mergeTree;
 	
 	public static void main(String[] args) {
 		
-		//System.out.println("testing start of program...");
-		
 		// start of program
-		Tree mergeTree = new Tree();
+
+		int[] array1 = {0,1,2,3,4,5,6,7,8,9,10};
+		int[] array2 = {10,9,8,7,6,5,4,3,2,1,0};
 		
-		// TODO: Move to test file later on
-		mergeTree.add(0);
-		mergeTree.add(1);
-		mergeTree.add(2);
-		mergeTree.add(3);
-		mergeTree.add(4);
-		mergeTree.add(5);
-		mergeTree.add(6);
+		MergeSort mergeSort = new MergeSort();
 		
-		mergeTree.split();
+//		mergeSort.sort(array1);
+		
+		System.out.println("Array before sorting -> " + Arrays.toString(array2));
+		mergeSort.sort(array2);
+		System.out.println("Array after sorting -> " + Arrays.toString(array2));
+		System.out.println("***************************");
+		
 		
 		
 	}
