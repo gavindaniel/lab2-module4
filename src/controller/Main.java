@@ -13,6 +13,7 @@ public class Main {
 		// start of program
 		Tree mergeTree = new Tree();
 		
+		// TODO: Move to test file later on
 		mergeTree.add(0);
 		mergeTree.add(1);
 		mergeTree.add(2);
@@ -20,6 +21,9 @@ public class Main {
 		mergeTree.add(4);
 		mergeTree.add(5);
 		mergeTree.add(6);
+		
+		mergeTree.split();
+		
 		
 	}
 	
