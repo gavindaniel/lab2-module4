@@ -8,10 +8,13 @@ public class Node {
 	private Node rightChild;		// Right Child Node
 	private int rank;
 	
+	// contructors
 	public Node() {
 		element = -1;	// -1 is always the starting value of any node
 	}
-	
+	public Node(int e) {
+		element = e;
+	}
 	
 	// Getters & Setters
 	
