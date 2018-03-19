@@ -1,0 +1,492 @@
+**************** Test 1 ****************
+
+Array = (10 descending numbers)
+
+******************** Merge Sort ********************
+Time to complete -> 17640 nanoseconds (ns)
+Time to complete -> 0.01764 milliseconds (ms)
+Time to complete -> 1.764E-5 seconds (s)
+
+******************** Quick Sort ********************
+Time to complete -> 17286 nanoseconds (ns)
+Time to complete -> 0.017286 milliseconds (ms)
+Time to complete -> 1.7286E-5 seconds (s)
+
+
+
+
+**************** Test 2 ****************
+
+Array = (50 descending numbers) 
+
+******************** Merge Sort ********************
+Time to complete -> 57298 nanoseconds (ns)
+Time to complete -> 0.057298 milliseconds (ms)
+Time to complete -> 5.7298E-5 seconds (s)
+
+******************** Quick Sort ********************
+Time to complete -> 71358 nanoseconds (ns)
+Time to complete -> 0.071358 milliseconds (ms)
+Time to complete -> 7.1358E-5 seconds (s)
+
+
+
+
+**************** Test 3 ****************
+
+Array = (100 descending numbers) 
+
+******************** Merge Sort ********************
+Time to complete -> 133967 nanoseconds (ns)
+Time to complete -> 0.133967 milliseconds (ms)
+Time to complete -> 1.33967E-4 seconds (s)
+
+******************** Quick Sort ********************
+Time to complete -> 185813 nanoseconds (ns)
+Time to complete -> 0.185813 milliseconds (ms)
+Time to complete -> 1.85813E-4 seconds (s)
+
+
+
+
+**************** Test 4 ****************
+
+Array = (500 descending numbers)
+
+******************** Merge Sort ********************
+Time to complete -> 969493 nanoseconds (ns)
+Time to complete -> 0.969493 milliseconds (ms)
+Time to complete -> 9.69493E-4 seconds (s)
+
+******************** Quick Sort ********************
+Time to complete -> 2735871 nanoseconds (ns)
+Time to complete -> 2.735871 milliseconds (ms)
+Time to complete -> 0.002735871 seconds (s)
+
+
+
+
+**************** Test 5 ****************
+
+Array = (1,000 descending numbers)
+
+******************** Merge Sort ********************
+Time to complete -> 2667682 nanoseconds (ns)
+Time to complete -> 2.667682 milliseconds (ms)
+Time to complete -> 0.002667682 seconds (s)
+
+******************** Quick Sort ********************
+Time to complete -> 6355542 nanoseconds (ns)
+Time to complete -> 6.355542 milliseconds (ms)
+Time to complete -> 0.006355542 seconds (s)
+
+
+
+
+**************** Test 6 ****************
+
+Array = (5,000 descending numbers)
+
+******************** Merge Sort ********************
+Time to complete -> 5240794 nanoseconds (ns)
+Time to complete -> 5.240794 milliseconds (ms)
+Time to complete -> 0.005240794 seconds (s)
+
+******************** Quick Sort ********************
+Time to complete -> 46684650 nanoseconds (ns)
+Time to complete -> 46.68465 milliseconds (ms)
+Time to complete -> 0.04668465 seconds (s)
+
+
+
+
+**************** Test 7 ****************
+
+Array = (10,000 descending numbers)
+
+******************** Merge Sort ********************
+Time to complete -> 4336411 nanoseconds (ns)
+Time to complete -> 4.336411 milliseconds (ms)
+Time to complete -> 0.004336411 seconds (s)
+
+******************** Quick Sort ********************
+Time to complete -> 61138509 nanoseconds (ns)
+Time to complete -> 61.138509 milliseconds (ms)
+Time to complete -> 0.061138509 seconds (s)
+
+
+
+
+**************** Test 8 ****************
+
+Array = (50,000 descending numbers)
+
+******************** Merge Sort ********************
+Time to complete -> 13329391 nanoseconds (ns)
+Time to complete -> 13.329391 milliseconds (ms)
+Time to complete -> 0.013329391 seconds (s)
+
+******************** Quick Sort ********************
+(Stack overflow)
+
+
+
+
+**************** Test 9 ****************
+
+Array = (100,000 descending numbers)
+
+******************** Merge Sort ********************
+Time to complete -> 28914882 nanoseconds (ns)
+Time to complete -> 28.914882 milliseconds (ms)
+Time to complete -> 0.028914882 seconds (s)
+
+******************** Quick Sort ********************
+(Stack overflow)
+
+
+
+
+**************** Test 10 ****************
+
+Array = (500,000 descending numbers)
+
+******************** Merge Sort ********************
+Time to complete -> 103647919 nanoseconds (ns)
+Time to complete -> 103.647919 milliseconds (ms)
+Time to complete -> 0.103647919 seconds (s)
+
+******************** Quick Sort ********************
+(Stack overflow)
+
+
+
+
+**************** Test 11 ****************
+
+Array = (10 random numbers)
+
+******************** Merge Sort ********************
+Time to complete -> 28562 nanoseconds (ns)
+Time to complete -> 0.028562 milliseconds (ms)
+Time to complete -> 2.8562E-5 seconds (s)
+
+******************** Quick Sort ********************
+Time to complete -> 19502 nanoseconds (ns)
+Time to complete -> 0.019502 milliseconds (ms)
+Time to complete -> 1.9502E-5 seconds (s)
+
+
+
+
+**************** Test 12 ****************
+
+Array = (50 random numbers) 
+
+******************** Merge Sort ********************
+Time to complete -> 49600 nanoseconds (ns)
+Time to complete -> 0.0496 milliseconds (ms)
+Time to complete -> 4.96E-5 seconds (s)
+
+******************** Quick Sort ********************
+Time to complete -> 23288 nanoseconds (ns)
+Time to complete -> 0.023288 milliseconds (ms)
+Time to complete -> 2.3288E-5 seconds (s)
+
+
+
+
+**************** Test 13 ****************
+
+Array = (100 random numbers) 
+
+******************** Merge Sort ********************
+Time to complete -> 111093 nanoseconds (ns)
+Time to complete -> 0.111093 milliseconds (ms)
+Time to complete -> 1.11093E-4 seconds (s)
+
+******************** Quick Sort ********************
+Time to complete -> 59474 nanoseconds (ns)
+Time to complete -> 0.059474 milliseconds (ms)
+Time to complete -> 5.9474E-5 seconds (s)
+
+
+
+
+**************** Test 14 ****************
+
+Array = (500 random numbers)
+
+******************** Merge Sort ********************
+Time to complete -> 748393 nanoseconds (ns)
+Time to complete -> 0.748393 milliseconds (ms)
+Time to complete -> 7.48393E-4 seconds (s)
+
+******************** Quick Sort ********************
+Time to complete -> 321895 nanoseconds (ns)
+Time to complete -> 0.321895 milliseconds (ms)
+Time to complete -> 3.21895E-4 seconds (s)
+
+
+
+
+**************** Test 15 ****************
+
+Array = (1,000 random numbers)
+
+******************** Merge Sort ********************
+Time to complete -> 1084820 nanoseconds (ns)
+Time to complete -> 1.08482 milliseconds (ms)
+Time to complete -> 0.00108482 seconds (s)
+
+******************** Quick Sort ********************
+Time to complete -> 635131 nanoseconds (ns)
+Time to complete -> 0.635131 milliseconds (ms)
+Time to complete -> 6.35131E-4 seconds (s)
+
+
+
+
+**************** Test 16 ****************
+
+Array = (5,000 random numbers)
+
+******************** Merge Sort ********************
+Time to complete -> 3385627 nanoseconds (ns)
+Time to complete -> 3.385627 milliseconds (ms)
+Time to complete -> 0.003385627 seconds (s)
+
+******************** Quick Sort ********************
+Time to complete -> 1980330 nanoseconds (ns)
+Time to complete -> 1.98033 milliseconds (ms)
+Time to complete -> 0.00198033 seconds (s)
+
+
+
+
+**************** Test 17 ****************
+
+Array = (10,000 random numbers)
+
+******************** Merge Sort ********************
+Time to complete -> 4604491 nanoseconds (ns)
+Time to complete -> 4.604491 milliseconds (ms)
+Time to complete -> 0.004604491 seconds (s)
+
+******************** Quick Sort ********************
+Time to complete -> 6126780 nanoseconds (ns)
+Time to complete -> 6.12678 milliseconds (ms)
+Time to complete -> 0.00612678 seconds (s)
+
+
+
+
+**************** Test 18 ****************
+
+Array = (50,000 random numbers)
+
+******************** Merge Sort ********************
+Time to complete -> 25525407 nanoseconds (ns)
+Time to complete -> 25.525407 milliseconds (ms)
+Time to complete -> 0.025525407 seconds (s)
+
+******************** Quick Sort ********************
+Time to complete -> 12660507 nanoseconds (ns)
+Time to complete -> 12.660507 milliseconds (ms)
+Time to complete -> 0.012660507 seconds (s)
+
+
+
+
+**************** Test 19 ****************
+
+Array = (100,000 random numbers)
+
+******************** Merge Sort ********************
+Time to complete -> 36386634 nanoseconds (ns)
+Time to complete -> 36.386634 milliseconds (ms)
+Time to complete -> 0.036386634 seconds (s)
+
+******************** Quick Sort ********************
+Time to complete -> 16695776 nanoseconds (ns)
+Time to complete -> 16.695776 milliseconds (ms)
+Time to complete -> 0.016695776 seconds (s)
+
+
+
+
+**************** Test 20 ****************
+
+Array = (500,000 random numbers)
+
+******************** Merge Sort ********************
+Time to complete -> 204730284 nanoseconds (ns)
+Time to complete -> 204.730284 milliseconds (ms)
+Time to complete -> 0.204730284 seconds (s)
+
+******************** Quick Sort ********************
+Time to complete -> 70775337 nanoseconds (ns)
+Time to complete -> 70.775337 milliseconds (ms)
+Time to complete -> 0.070775337 seconds (s)
+
+
+
+
+**************** Test 21 ****************
+
+Array = (10 ascending numbers w/ 0 in the middle)
+
+******************** Merge Sort ********************
+Time to complete -> 28562 nanoseconds (ns)
+Time to complete -> 0.028562 milliseconds (ms)
+Time to complete -> 2.8562E-5 seconds (s)
+
+******************** Quick Sort ********************
+Time to complete -> 19502 nanoseconds (ns)
+Time to complete -> 0.019502 milliseconds (ms)
+Time to complete -> 1.9502E-5 seconds (s)
+
+
+
+
+**************** Test 22 ****************
+
+Array = (50 ascending numbers w/ 0 in the middle) 
+
+******************** Merge Sort ********************
+Time to complete -> 134641 nanoseconds (ns)
+Time to complete -> 0.134641 milliseconds (ms)
+Time to complete -> 1.34641E-4 seconds (s)
+
+******************** Quick Sort ********************
+Time to complete -> 84881 nanoseconds (ns)
+Time to complete -> 0.084881 milliseconds (ms)
+Time to complete -> 8.4881E-5 seconds (s)
+
+
+
+
+**************** Test 23 ****************
+
+Array = (100 ascending numbers w/ 0 in the middle) 
+
+******************** Merge Sort ********************
+Time to complete -> 108008 nanoseconds (ns)
+Time to complete -> 0.108008 milliseconds (ms)
+Time to complete -> 1.08008E-4 seconds (s)
+
+******************** Quick Sort ********************
+Time to complete -> 218198 nanoseconds (ns)
+Time to complete -> 0.218198 milliseconds (ms)
+Time to complete -> 2.18198E-4 seconds (s)
+
+
+
+
+**************** Test 24 ****************
+
+Array = (500 ascending numbers w/ 0 in the middle)
+
+******************** Merge Sort ********************
+Time to complete -> 901344 nanoseconds (ns)
+Time to complete -> 0.901344 milliseconds (ms)
+Time to complete -> 9.01344E-4 seconds (s)
+
+******************** Quick Sort ********************
+Time to complete -> 3282909 nanoseconds (ns)
+Time to complete -> 3.282909 milliseconds (ms)
+Time to complete -> 0.003282909 seconds (s)
+
+
+
+
+**************** Test 25 ****************
+
+Array = (1,000 ascending numbers w/ 0 in the middle)
+
+******************** Merge Sort ********************
+Time to complete -> 2392697 nanoseconds (ns)
+Time to complete -> 2.392697 milliseconds (ms)
+Time to complete -> 0.002392697 seconds (s)
+
+******************** Quick Sort ********************
+Time to complete -> 5876732 nanoseconds (ns)
+Time to complete -> 5.876732 milliseconds (ms)
+Time to complete -> 0.005876732 seconds (s)
+
+
+
+
+**************** Test 26 ****************
+
+Array = (5,000 ascending numbers w/ 0 in the middle)
+
+******************** Merge Sort ********************
+Time to complete -> 11229865 nanoseconds (ns)
+Time to complete -> 11.229865 milliseconds (ms)
+Time to complete -> 0.011229865 seconds (s)
+
+******************** Quick Sort ********************
+Time to complete -> 32046259 nanoseconds (ns)
+Time to complete -> 32.046259 milliseconds (ms)
+Time to complete -> 0.032046259 seconds (s)
+
+
+
+
+**************** Test 27 ****************
+
+Array = (10,000 ascending numbers w/ 0 in the middle)
+
+******************** Merge Sort ********************
+Time to complete -> 5178986 nanoseconds (ns)
+Time to complete -> 5.178986 milliseconds (ms)
+Time to complete -> 0.005178986 seconds (s)
+
+******************** Quick Sort ********************
+(Stack overflow)
+
+
+
+
+**************** Test 28 ****************
+
+Array = (50,000 ascending numbers w/ 0 in the middle)
+
+******************** Merge Sort ********************
+Time to complete -> 17310145 nanoseconds (ns)
+Time to complete -> 17.310145 milliseconds (ms)
+Time to complete -> 0.017310145 seconds (s)
+
+******************** Quick Sort ********************
+(Stack overflow)
+
+
+
+
+**************** Test 29 ****************
+
+Array = (100,000 ascending numbers w/ 0 in the middle)
+
+******************** Merge Sort ********************
+Time to complete -> 34558116 nanoseconds (ns)
+Time to complete -> 34.558116 milliseconds (ms)
+Time to complete -> 0.034558116 seconds (s)
+
+******************** Quick Sort ********************
+(Stack overflow)
+
+
+
+
+**************** Test 30 ****************
+
+Array = (500,000 ascending numbers w/ 0 in the middle)
+
+******************** Merge Sort ********************
+Time to complete -> 82698687 nanoseconds (ns)
+Time to complete -> 82.698687 milliseconds (ms)
+Time to complete -> 0.082698687 seconds (s)
+
+******************** Quick Sort ********************
+(Stack overflow)
