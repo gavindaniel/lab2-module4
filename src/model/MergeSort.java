@@ -7,11 +7,7 @@ public class MergeSort {
 	
 	public void sort(int[] array) {
 		
-//		System.out.println("sorting array..." + Arrays.toString(array));
-		
-		int size = array.length;
-		
-		if (size < 2)
+		if (array.length < 2)
 			return;
 		
 		int midPoint = (array.length) / 2;
